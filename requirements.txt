@@ -3,3 +3,5 @@ pymc3>=3.11,<=3.11.4
 tensorflow-probability>=0.12.1,<=0.15.0
 pydlm==0.1.1.11
 prophet==1.0.1
+ipykernel>=6.25,<6.26
+pandas>=2.1,<2.2
